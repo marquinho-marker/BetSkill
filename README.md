@@ -1,2 +1,0 @@
-# BetSkill
-Jogo online moba
